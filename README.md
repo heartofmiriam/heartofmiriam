@@ -37,3 +37,4 @@
   <a href="https://g.dev/heartofmiriam"><img width="64" height="64" src="https://img.icons8.com/arcade/64/under-computer.png" alt="under-computer"/></a>
   <a href="https://learn.microsoft.com/en-us/users/skylaweyrich-8680/"><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/></a>
   <a href="https://www.salesforce.com/trailblazer/heartofmiriam"><img width="64" height="64" src="https://img.icons8.com/dusk/64/salesforce.png" alt="salesforce"/></a>
+  <a href="https://www.freecodecamp.org/heartofmiriam"><img width="64" height="64" src="https://img.icons8.com/arcade/64/code.png" alt="code"/></a>
