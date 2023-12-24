@@ -11,7 +11,7 @@
     Linux in my routine. I also possess a high level of fluency and expertise in SPSS, 
     acquired through extensive coursework during my undergraduate studies in social 
     science statistics. Currently, I am actively engaged in the acquisition of
-    skills in SQL, Python and Javascript.<br>
+    skills in SQL, Python, and JavaScript.<br>
     My areas of research interest, encompass the following domains: <br>
   ❥the Ancient MENA region, specifically delving into the lives of women within that context, with a particular emphasis on their religious experiences<br>
   ❥the academic history and theoretical frameworks prevalent in Germany from the early 1800s through World War Two; Eastern European and German Jewish history<br>
