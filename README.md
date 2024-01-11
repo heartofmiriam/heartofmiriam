@@ -18,7 +18,7 @@
   ❥the study of reception history concerning the genesis of the "Bible" and its manifold translations, interpretations, and adaptations<br>
   ❥exploration of Marxist, Materialist, and Radical feminist theories<br>
   ❥the field of Women's liberation theology<br>
-  ❥investigations into childist theology and children's liberation theory<br>
+  ❥investigations into childist theology and children's liberation theory/theology<br>
   ❥the intersection of leftist theories with religious studies<br>
   ❥finally, the domain of Miriamic Studies.<br>
   </p>
