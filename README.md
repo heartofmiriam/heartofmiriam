@@ -39,14 +39,14 @@
     src="https://64.media.tumblr.com/a98a750a70d0cc8d12658da85d4f6c3c/b667e5c915ef1e27-52/s500x750/34f19c2c50b851e6e8984688f4aeb5b3ea692e44.gif"
   />
 <h3>Ways to Connect/Contact Me</h3>
-  <a href="https://www.linkedin.com/in/skyla-weyrich-95886317b/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/arcade/64/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.discordapp.com/users/271470555989934080" target="_blank"><img width="64" height="64" src="https://img.icons8.com/arcade/64/discord-logo.png" alt="discord-logo"/></a>
-  <a href="mailto:heartofmiriam@proton.me" target="_blank"><img width="64" height="64" src="https://img.icons8.com/arcade/64/new-post--v2.png" alt="new-post--v2"/></a>
-  <a href="https://g.dev/heartofmiriam" target="_blank"><img width="64" height="64" src="https://img.icons8.com/arcade/64/under-computer.png" alt="under-computer"/></a>
-  <a href="https://learn.microsoft.com/en-us/users/skylaweyrich-8680/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/></a>
-  <a href="https://www.salesforce.com/trailblazer/heartofmiriam" target="_blank"><img width="64" height="64" src="https://img.icons8.com/dusk/64/salesforce.png" alt="salesforce"/></a>
-  <a href="https://www.freecodecamp.org/heartofmiriam" target="_blank"><img width="64" height="64" src="https://img.icons8.com/arcade/64/code.png" alt="code"/></a><br>
-    Icons by <a href ="https://icons8.com/icons" target="_blank">Icons8</a>
+  <a href="https://www.linkedin.com/in/skyla-weyrich-95886317b/" target="_blank" rel="noreferrer noopener"><img width="64" height="64" src="https://img.icons8.com/arcade/64/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.discordapp.com/users/271470555989934080" target="_blank" rel="noreferrer noopener"><img width="64" height="64" src="https://img.icons8.com/arcade/64/discord-logo.png" alt="discord-logo"/></a>
+  <a href="mailto:heartofmiriam@proton.me" target="_blank" rel="noreferrer noopener"><img width="64" height="64" src="https://img.icons8.com/arcade/64/new-post--v2.png" alt="new-post--v2"/></a>
+  <a href="https://g.dev/heartofmiriam" target="_blank" rel="noreferrer noopener"><img width="64" height="64" src="https://img.icons8.com/arcade/64/under-computer.png" alt="under-computer"/></a>
+  <a href="https://learn.microsoft.com/en-us/users/skylaweyrich-8680/" target="_blank" rel="noreferrer noopener"><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/></a>
+  <a href="https://www.salesforce.com/trailblazer/heartofmiriam" target="_blank" rel="noreferrer noopener"><img width="64" height="64" src="https://img.icons8.com/dusk/64/salesforce.png" alt="salesforce"/></a>
+  <a href="https://www.freecodecamp.org/heartofmiriam" target="_blank" rel="noreferrer noopener"><img width="64" height="64" src="https://img.icons8.com/arcade/64/code.png" alt="code"/></a><br>
+    Icons by <a href ="https://icons8.com/icons" target="_blank" rel="noreferrer noopener">Icons8</a>
     <img
     src="https://64.media.tumblr.com/a98a750a70d0cc8d12658da85d4f6c3c/b667e5c915ef1e27-52/s500x750/34f19c2c50b851e6e8984688f4aeb5b3ea692e44.gif"
   />
