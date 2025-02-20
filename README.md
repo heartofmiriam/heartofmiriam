@@ -29,6 +29,7 @@
   <p>
     ❥I speak German and French, along with basic Hebrew, Yiddish, Arabic, Dutch,
     Spanish, Latin, Ancient Greek, and Luxembourgish.<br>
+    ❥I am learning Ukrainian and Chinese right now.<br>
     ❥I have a BA in Religious Studies with minors in Psychology, Jewish Studies,
     and Women and Gender Studies.<br>
     ❥I am originally from Tennessee but now live in New York City.
