@@ -3,12 +3,12 @@
     src="https://64.media.tumblr.com/a98a750a70d0cc8d12658da85d4f6c3c/b667e5c915ef1e27-52/s500x750/34f19c2c50b851e6e8984688f4aeb5b3ea692e44.gif"
   />
   <p>
-    I am Miriam/Skyla(she/they), a self-taught programmer and researcher who has recently dedicated herself to
+    I am Miriam(she/they), a self-taught programmer and researcher who has recently dedicated herself to
     pursuing coding with a heightened commitment. My proficiency lies
     in HTML/CSS, skills honed since my teenage years when I embarked on coding
     endeavors to enhance the aesthetics of my Tumblr blog. In addition, I
     possess fluency in Bash, a proficiency cultivated through the daily use of
-    Linux in my routine. I also possess a high level of fluency and expertise in SPSS, 
+    a Linux laptop. I also possess a high level of fluency and expertise in SPSS, 
     acquired through extensive coursework during my undergraduate studies in social 
     science statistics. Currently, I am actively engaged in the acquisition of
     skills in SQL, Python, and JavaScript.<br>
